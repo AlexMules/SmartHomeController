@@ -64,6 +64,7 @@ class SmartHomeDashboard(ctk.CTk):
 
         self.history_box = ctk.CTkTextbox(self.left_panel, height=300, font=("Consolas", 12), fg_color="#0a0a0a")
         self.history_box.pack(fill="both", expand=True)
+        self.history_box.configure(state="disabled")
 
         self.right_panel = ctk.CTkFrame(self.container, fg_color="transparent")
         self.right_panel.grid(row=0, column=1, padx=20, pady=20, sticky="nsew")
@@ -74,6 +75,7 @@ class SmartHomeDashboard(ctk.CTk):
         self.tech_data_box = ctk.CTkTextbox(self.right_panel, height=280, font=("Consolas", 16), fg_color="#0a0a0a",
                                             border_width=1, border_color="#3b8ed0")
         self.tech_data_box.pack(fill="x", pady=(0, 20))
+        self.tech_data_box.configure(state="disabled")
 
         try:
             self.raw_image = Image.open(self.bg_path)
@@ -110,10 +112,14 @@ class SmartHomeDashboard(ctk.CTk):
             else:
                 info += "None detected.\n"
 
+            self.tech_data_box.configure(state="normal")
             self.tech_data_box.delete("1.0", "end")
             self.tech_data_box.insert("end", info)
+            self.tech_data_box.configure(state="disabled")
 
+            self.history_box.configure(state="normal")
             self.history_box.insert("1.0", f"[IN]: {query}\n[OUT]: {display_intent}\n" + "-" * 40 + "\n")
+            self.history_box.configure(state="disabled")
 
             self.entry_command.delete(0, "end")
             self.focus_set()
