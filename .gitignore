@@ -6,3 +6,5 @@ __pycache__/
 *.docx
 *.pdf
 *.tmp
+*.zip
+*.rar
