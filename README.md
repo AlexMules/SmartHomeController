@@ -35,17 +35,33 @@ SmartHomeController/
 <br>
 
 ## 🖼️ Screenshots
-### Schema definition - Intents
-<img alt="image" src="https://github.com/user-attachments/assets/379eef3d-2548-408c-bc62-37cc531f2c20" /><br><br>
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/379eef3d-2548-408c-bc62-37cc531f2c20" />
+  Schema definition - Intents
+</div><br><br>
 
-### Schema definition - Entities
-<img alt="image" src="https://github.com/user-attachments/assets/e654d847-84a5-4e5e-a989-81b18fa05627" /><br><br>
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/e654d847-84a5-4e5e-a989-81b18fa05627" /><br>
+  Schema definition - Entities
+</div><br><br>
 
-### Data labelling
-<img alt="image" src="https://github.com/user-attachments/assets/e004ddc0-9d42-483a-917c-dc721e5d6da6" /><br><br>
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/e004ddc0-9d42-483a-917c-dc721e5d6da6" /><br>
+  Data labelling
+</div><br><br>
 
-### Model performance
-<img alt="image" src="https://github.com/user-attachments/assets/b61ccdf7-6d87-49ab-9bf0-62cba95931fc" /><br><br>
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/b61ccdf7-6d87-49ab-9bf0-62cba95931fc" /><br>
+  Model performance
+</div><br><br>
+
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/cd21f6cd-ffb4-4340-b385-7b715b5a3871" /><br>
+<img alt="image" src="https://github.com/user-attachments/assets/628c6b90-a6c2-4bb1-8d64-87fb73912daf" /><br>
+  Testing the deployed model
+</div><br><br>
+
+
 
 
 
