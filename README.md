@@ -11,12 +11,12 @@ Instead of relying on hard-coded keywords, the application uses machine learning
 * **Confidence Scoring Validation:** Exposes the AI's confidence percentage for every inference, providing transparency into the model's decision-making process.
 * **Contextual Command History:** Maintains an active, chronological log of user inputs and system outputs during the session.
 
-## Tech Stack
+## 🛠️ Tech Stack
 * **Language:** Python
 * **Cloud & AI Engine:** Azure Cognitive Services (Conversational Language Understanding)
 * **GUI Framework:** CustomTkinter
 
-## Project Structure
+## 📂 Project Structure
 ```text
 SmartHomeController/
 ├── pictures/
