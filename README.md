@@ -22,9 +22,11 @@ SmartHomeController/
 ├── pictures/
 │   ├── logo.ico                        # Application window icon
 │   └── background.jpg                  # Dashboard decorative background
-└── src/
-    ├── main.py                         # UI initialization and main application loop
-    └── clu_logic.py                    # Azure API communication and regex formatting logic<br><br>
+├── src/
+│   ├── main.py                         # UI initialization and main application loop
+│   └── clu_logic.py                    # Azure API communication and regex formatting logic
+├── .gitignore                          
+└── README.md                           
 ```
 <br><br>
 
