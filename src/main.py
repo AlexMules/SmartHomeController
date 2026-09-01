@@ -13,7 +13,6 @@ class SmartHomeDashboard(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        # --- GESTIONARE CAI FISIERE ---
         # Detectarea automata a folderului radacina pentru a localiza resursele (imagini/iconite)
         current_dir = os.path.dirname(os.path.abspath(__file__))  # Folderul 'src'
         project_root = os.path.dirname(current_dir)  # Radacina proiectului
