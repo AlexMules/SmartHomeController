@@ -41,6 +41,15 @@ SmartHomeController/
 ### Schema definition - Entities
 <img alt="image" src="https://github.com/user-attachments/assets/e654d847-84a5-4e5e-a989-81b18fa05627" /><br><br>
 
+### Data labelling
+<img alt="image" src="https://github.com/user-attachments/assets/e004ddc0-9d42-483a-917c-dc721e5d6da6" /><br><br>
+
+### Model performance
+<img alt="image" src="https://github.com/user-attachments/assets/b61ccdf7-6d87-49ab-9bf0-62cba95931fc" /><br><br>
+
+
+
+
 
 
 
