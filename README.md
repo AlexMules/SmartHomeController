@@ -28,5 +28,5 @@ SmartHomeController/
 ├── .gitignore                          
 └── README.md                           
 ```
-
+<br>
 ## 🖼️ Screenshots
