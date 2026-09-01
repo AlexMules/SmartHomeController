@@ -29,4 +29,5 @@ SmartHomeController/
 └── README.md                           
 ```
 <br>
+
 ## 🖼️ Screenshots
