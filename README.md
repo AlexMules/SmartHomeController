@@ -61,6 +61,16 @@ SmartHomeController/
   Testing the deployed model
 </div><br><br>
 
+### The app's dashboard
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/8b4b5e1e-afa6-4713-9b5c-6df321a1ddbb" /><br>
+<img alt="image" src="https://github.com/user-attachments/assets/49464fae-904d-4638-9050-d69024e10b39" /><br>
+<img alt="image" src="https://github.com/user-attachments/assets/03609af8-bc91-4187-9a74-d66b31fa3a00" /><br>
+<img alt="image" src="https://github.com/user-attachments/assets/0d3b4f44-7399-44f4-85f3-9fd7b540c41c" /><br>
+<img alt="image" src="https://github.com/user-attachments/assets/c23d88c8-d9d1-4633-8d73-062e84e62e97" /><br>
+<img alt="image" src="https://github.com/user-attachments/assets/dc9f61e2-cb79-437e-b9a9-0726b4c16db0" /><br>
+</div>
+
 
 
 
