@@ -1,4 +1,4 @@
-# Smart Home Controller
+# 🏠 Smart Home Controller
 
 ## Description
 The **Smart Home AI Controller** is a desktop application that translates natural human language into structured, executable system commands. Built to overcome the limitations of rigid, rule-based parsers, this project integrates **Azure Conversational Language Understanding (CLU)** to process unstructured input and accurately extract user intents and entities. 
