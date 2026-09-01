@@ -12,9 +12,13 @@ Instead of relying on hard-coded keywords, the application uses machine learning
 * **Contextual Command History:** Maintains an active, chronological log of user inputs and system outputs during the session.<br><br>
 
 ## 🛠️ Tech Stack
-* **Language:** Python
-* **Cloud & AI Engine:** Azure Cognitive Services (Conversational Language Understanding)
-* **GUI Framework:** CustomTkinter<br><br>
+| Component | Technology |
+| :--- | :--- |
+| **Language** | Python |
+| **Cloud & AI Engine** | Azure Cognitive Services (Conversational Language Understanding) |
+| **GUI Framework** | CustomTkinter |
+
+<br>
 
 ## 📂 Project Structure
 ```text
