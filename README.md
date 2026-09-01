@@ -35,3 +35,12 @@ SmartHomeController/
 <br>
 
 ## 🖼️ Screenshots
+### Schema definition - Intents
+<img alt="image" src="https://github.com/user-attachments/assets/379eef3d-2548-408c-bc62-37cc531f2c20" /><br><br>
+
+### Schema definition - Entities
+<img alt="image" src="https://github.com/user-attachments/assets/e654d847-84a5-4e5e-a989-81b18fa05627" /><br><br>
+
+
+
+
