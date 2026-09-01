@@ -9,12 +9,12 @@ Instead of relying on hard-coded keywords, the application uses machine learning
 * **AI-Driven Inference (Azure CLU):** Maps natural language queries to structural JSON objects, extracting the **Top Intent** (e.g., `LightOn`) and **Entities** (e.g., `Location: kitchen`).
 * **Semantic Post-Processing:** Uses Regular Expressions (Regex) to automatically format raw CamelCase labels into human-readable text (e.g., converting `TurnOnSmartLight` to `TURN ON SMART LIGHT`).
 * **Confidence Scoring Validation:** Exposes the AI's confidence percentage for every inference, providing transparency into the model's decision-making process.
-* **Contextual Command History:** Maintains an active, chronological log of user inputs and system outputs during the session.
+* **Contextual Command History:** Maintains an active, chronological log of user inputs and system outputs during the session.<br><br>
 
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Cloud & AI Engine:** Azure Cognitive Services (Conversational Language Understanding)
-* **GUI Framework:** CustomTkinter
+* **GUI Framework:** CustomTkinter<br><br>
 
 ## 📂 Project Structure
 ```text
@@ -24,4 +24,8 @@ SmartHomeController/
 │   └── background.jpg                  # Dashboard decorative background
 └── src/
     ├── main.py                         # UI initialization and main application loop
-    └── clu_logic.py                    # Azure API communication and regex formatting logic
+    └── clu_logic.py                    # Azure API communication and regex formatting logic<br><br>
+```
+<br><br>
+
+## 🖼️ Screenshots
